@@ -1,7 +1,7 @@
 Data structures
       By Norjak123
 --
-In this repository you can find four main data structures in C++:
+In this repository you can find four main data structures, with templates, in C++:
 1) Stack
 2) Queue
 3) Binary Search Tree
